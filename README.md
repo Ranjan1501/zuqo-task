@@ -10,21 +10,23 @@ install all the dependencies
 
 $npm install
 
-Start react app
+## Start react app
 
-cd admin_ui
+cd zuqo-task
 
 $npm start
 
 ## Teach Stack-
 
-1. React js 
+1. React js  - Frontend
 
-2.  Node Js
+2. Node Js   - Backend
 
-3. Express
+3. Express   - Framework
 
-4. MongoDB
+4. MongoDB   - Database
+
+5. Mongoose  - ORM
    
 
 
