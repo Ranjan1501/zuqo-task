@@ -4,7 +4,7 @@
 
 clone the repo with
 <br> 
-$git clone https://github.com/Ranjan1501/Admin_UI.git
+$git clone https://github.com/Ranjan1501/zuqo-task.git
 
 install all the dependencies
 
