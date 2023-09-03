@@ -1,18 +1,12 @@
-# Admin_UI
-
-## Problem Statement- You work at a startup that is building an interface for admins to see and delete users. The users will be provided via an API. Your job is to build out a working UI. See image below for reference.
-
-<br> 
-<img width="600" alt="Demo Image" src="https://user-images.githubusercontent.com/91541289/158592401-a80d4671-da4e-42e9-b161-9f1d982908a1.png">
-<br> 
+# Zuqo
 
 ## How to Run This Project 
 
 clone the repo with
 <br> 
-$git clone https://github.com/Ranjan1501/Admin_UI.git
+$git clone https://github.com/Ranjan1501/zuqo-task.git
 
-install all the dependcies
+install all the dependencies
 
 $npm install
 
@@ -24,23 +18,24 @@ $npm start
 
 ## Teach Stack-
 
-1.React js 
+1. React js 
 
-2. javaScript 
+2.  Node Js
 
-3. HTML
+3. Express
 
-4. CSS
+4. MongoDB
+   
 
 
 ## Features--
 
 1. Searching 
-  searching with any field 
+  searching with name and email
 
 2. Pagination  
 
-3. Delete Users Details by Selecting particular User 
+3. Delete user details by Selecting a particular User 
 
 
 
@@ -69,7 +64,7 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 **Note: this is a one-way operation. Once you `eject`, you can’t go back!**
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single-build dependency from your project.
 
 Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
 
