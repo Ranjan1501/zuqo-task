@@ -6,6 +6,13 @@ clone the repo with
 <br> 
 $git clone https://github.com/Ranjan1501/zuqo-task.git
 
+
+## Run Server 
+
+to run server, go to server directory 
+1. npm install 
+2. start server - npm run start
+
 install all the dependencies
 
 $npm install
